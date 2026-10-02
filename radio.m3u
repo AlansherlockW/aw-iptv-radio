@@ -1,5 +1,31 @@
 #EXTM3U x-tvg-url="http://192.168.31.82:1905/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="WZRC 纽约华语广播粤语台" tvg-name="WZRC 纽约华语广播粤语台" tvg-logo="" group-title="Radio",WZRC 纽约华语广播粤语台
+#EXTINF:-1 tvg-id="WZRC 纽约华语广播粤语台" tvg-name="WZRC 纽约华语广播粤语台" tvg-logo="" group-title="WZRC 纽约华语广播粤语台",WZRC 纽约华语广播粤语台
 https://video1.getstreamhosting.com:8288/stream?.mp3
-#EXTINF:-1 tvg-id="KVTO AM1400 FM93.7 旧金山湾区中文电台" tvg-name="KVTO AM1400 FM93.7 旧金山湾区中文电台" tvg-logo="" group-title="Radio",KVTO AM1400 FM93.7 旧金山湾区中文电台
+#EXTINF:-1 tvg-id="KVTO AM1400 FM93.7 旧金山湾区中文电台" tvg-name="KVTO AM1400 FM93.7 旧金山湾区中文电台" tvg-logo="" group-title="KVTO AM1400 FM93.7 旧金山湾区中文电台",KVTO AM1400 FM93.7 旧金山湾区中文电台
 https://us2.maindigitalstream.com/ssl/KVTO
+#EXTINF:-1 tvg-id="101 SMOOTH JAZZ" tvg-name="101 SMOOTH JAZZ" tvg-logo="" group-title="101 SMOOTH JAZZ",101 SMOOTH JAZZ
+http://www.101smoothjazz.com/101-smoothjazz.m3u
+#EXTINF:-1 tvg-id="Z100 - New York's #1 Hit Music Station WHTZ" tvg-name="Z100 - New York's #1 Hit Music Station WHTZ" tvg-logo="" group-title="Z100 - New York's #1 Hit Music Station WHTZ",Z100 - New York's #1 Hit Music Station WHTZ
+https://stream.revma.ihrhls.com/zc1469
+#EXTINF:-1 tvg-id="BOX: POP!" tvg-name="BOX: POP!" tvg-logo="" group-title="BOX: POP!",
+https://play.streamafrica.net/popmusicradio
+#EXTINF:-1 tvg-id="BOX: Japan City Pop" tvg-name="BOX: Japan City Pop" tvg-logo="" group-title="BOX: Japan City Pop",
+https://play.streamafrica.net/japancitypop
+#EXTINF:-1 tvg-id="BOX: J-POP Radio" tvg-name="BOX: J-POP Radio" tvg-logo="" group-title="BOX: J-POP Radio",
+https://play.streamafrica.net/jpopradio
+#EXTINF:-1 tvg-id="BOX: Weeb Anime Radio" tvg-name="BOX: Weeb Anime Radio" tvg-logo="" group-title="BOX: Weeb Anime Radio",
+https://play.streamafrica.net/weebanimeradio
+#EXTINF:-1 tvg-id="BOX: K-POP Radio" tvg-name="BOX: K-POP Radio" tvg-logo="" group-title="BOX: K-POP Radio",
+https://play.streamafrica.net/kpopradio
+#EXTINF:-1 tvg-id="BOX: Game Radio" tvg-name="BOX: Game Radio" tvg-logo="" group-title="BOX: Game Radio",
+https://play.streamafrica.net/gameradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+url
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+url
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+url
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+url
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+url
