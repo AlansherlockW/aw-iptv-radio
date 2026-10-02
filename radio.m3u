@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="http://192.168.31.82:1905/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="广东音乐之声" tvg-name="广东音乐之声" tvg-logo="" group-title="广东音乐之声",广东音乐之声
+https://lhttp.qtfm.cn/live/1260/64k.mp3
+#EXTINF:-1 tvg-id="中山环保旅游之声·快乐888" tvg-name="中山环保旅游之声·快乐888" tvg-logo="" group-title="中山环保旅游之声·快乐888",中山环保旅游之声·快乐888
+https://lhttp.qingting.fm/live/1278/64k.mp3
 #EXTINF:-1 tvg-id="RTHK Radio 1" tvg-name="RTHK Radio 1" tvg-logo="" group-title="RTHK Radio 1",RTHK Radio 1
 https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
 #EXTINF:-1 tvg-id="RTHK Radio 2" tvg-name="RTHK Radio 2" tvg-logo="" group-title="RTHK Radio 2",RTHK Radio 2
@@ -23,6 +27,8 @@ https://us2.maindigitalstream.com/ssl/KVTO
 http://www.101smoothjazz.com/101-smoothjazz.m3u
 #EXTINF:-1 tvg-id="Z100 - New York's #1 Hit Music Station WHTZ" tvg-name="Z100 - New York's #1 Hit Music Station WHTZ" tvg-logo="" group-title="Z100 - New York's #1 Hit Music Station WHTZ",Z100 - New York's #1 Hit Music Station WHTZ
 https://stream.revma.ihrhls.com/zc1469
+#EXTINF:-1 tvg-id="Listen.Moe JPop Vorbis" tvg-name="Listen.Moe JPop Vorbis" tvg-logo="" group-title="Listen.Moe JPop Vorbis",Listen.Moe JPop Vorbis
+https://listen.moe/stream
 #EXTINF:-1 tvg-id="BOX: POP!" tvg-name="BOX: POP!" tvg-logo="" group-title="BOX: POP!",BOX: POP!
 https://play.streamafrica.net/popmusicradio
 #EXTINF:-1 tvg-id="BOX: Japan City Pop" tvg-name="BOX: Japan City Pop" tvg-logo="" group-title="BOX: Japan City Pop",BOX: Japan City Pop
@@ -45,15 +51,6 @@ https://play.streamafrica.net/hitscountry
 https://play.streamafrica.net/classicalradio
 #EXTINF:-1 tvg-id="BOX: Spirit Radio" tvg-name="BOX: Spirit Radio" tvg-logo="" group-title="BOX: Spirit Radio",BOX: Spirit Radio
 https://play.streamafrica.net/spiritrnb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-url
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-url
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-url
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-url
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-url
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 url
