@@ -52,5 +52,10 @@ https://play.streamafrica.net/classicalradio
 #EXTINF:-1 tvg-id="BOX: Spirit Radio" tvg-name="BOX: Spirit Radio" tvg-logo="" group-title="BOX: Spirit Radio",BOX: Spirit Radio
 https://play.streamafrica.net/spiritrnb
 
+#EXTINF:-1 tvg-id="LAPD - South Bureau" tvg-name="LAPD - South Bureau" tvg-logo="" group-title="LAPD - South Bureau",LAPD - South Bureau
+https://broadcastify.cdnstream1.com/20296
+#EXTINF:-1 tvg-id="LAPD Dispatch - Valley Bureau" tvg-name="LAPD Dispatch - Valley Bureau" tvg-logo="" group-title="LAPD Dispatch - Valley Bureau",LAPD Dispatch - Valley Bureau
+https://broadcastify.cdnstream1.com/26569
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 url
