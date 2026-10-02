@@ -1,4 +1,20 @@
 #EXTM3U x-tvg-url="http://192.168.31.82:1905/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="RTHK Radio 1" tvg-name="RTHK Radio 1" tvg-logo="" group-title="RTHK Radio 1",RTHK Radio 1
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 2" tvg-name="RTHK Radio 2" tvg-logo="" group-title="RTHK Radio 2",RTHK Radio 2
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 3" tvg-name="RTHK Radio 3" tvg-logo="" group-title="RTHK Radio 3",RTHK Radio 3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 4" tvg-name="RTHK Radio 4" tvg-logo="" group-title="RTHK Radio 4",RTHK Radio 4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 5" tvg-name="RTHK Radio 5" tvg-logo="" group-title="RTHK Radio 5",RTHK Radio 5
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 6 央广香港之声" tvg-name="RTHK Radio 6 央广香港之声" tvg-logo="" group-title="RTHK Radio 6 央广香港之声",RTHK Radio 6 央广香港之声
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 7 普通话台" tvg-name="RTHK Radio 7 普通话台" tvg-logo="" group-title="RTHK Radio 7 普通话台",RTHK Radio 7 普通话台
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1 tvg-id="RTHK Radio 8 央广粤港澳大湾区之声" tvg-name="RTHK Radio 8 央广粤港澳大湾区之声" tvg-logo="" group-title="RTHK Radio 8 央广粤港澳大湾区之声",RTHK Radio 8 央广粤港澳大湾区之声
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
 #EXTINF:-1 tvg-id="WZRC 纽约华语广播粤语台" tvg-name="WZRC 纽约华语广播粤语台" tvg-logo="" group-title="WZRC 纽约华语广播粤语台",WZRC 纽约华语广播粤语台
 https://video1.getstreamhosting.com:8288/stream?.mp3
 #EXTINF:-1 tvg-id="KVTO AM1400 FM93.7 旧金山湾区中文电台" tvg-name="KVTO AM1400 FM93.7 旧金山湾区中文电台" tvg-logo="" group-title="KVTO AM1400 FM93.7 旧金山湾区中文电台",KVTO AM1400 FM93.7 旧金山湾区中文电台
@@ -7,18 +23,30 @@ https://us2.maindigitalstream.com/ssl/KVTO
 http://www.101smoothjazz.com/101-smoothjazz.m3u
 #EXTINF:-1 tvg-id="Z100 - New York's #1 Hit Music Station WHTZ" tvg-name="Z100 - New York's #1 Hit Music Station WHTZ" tvg-logo="" group-title="Z100 - New York's #1 Hit Music Station WHTZ",Z100 - New York's #1 Hit Music Station WHTZ
 https://stream.revma.ihrhls.com/zc1469
-#EXTINF:-1 tvg-id="BOX: POP!" tvg-name="BOX: POP!" tvg-logo="" group-title="BOX: POP!",
+#EXTINF:-1 tvg-id="BOX: POP!" tvg-name="BOX: POP!" tvg-logo="" group-title="BOX: POP!",BOX: POP!
 https://play.streamafrica.net/popmusicradio
-#EXTINF:-1 tvg-id="BOX: Japan City Pop" tvg-name="BOX: Japan City Pop" tvg-logo="" group-title="BOX: Japan City Pop",
+#EXTINF:-1 tvg-id="BOX: Japan City Pop" tvg-name="BOX: Japan City Pop" tvg-logo="" group-title="BOX: Japan City Pop",BOX: Japan City Pop
 https://play.streamafrica.net/japancitypop
-#EXTINF:-1 tvg-id="BOX: J-POP Radio" tvg-name="BOX: J-POP Radio" tvg-logo="" group-title="BOX: J-POP Radio",
+#EXTINF:-1 tvg-id="BOX: J-POP Radio" tvg-name="BOX: J-POP Radio" tvg-logo="" group-title="BOX: J-POP Radio",BOX: J-POP Radio
 https://play.streamafrica.net/jpopradio
-#EXTINF:-1 tvg-id="BOX: Weeb Anime Radio" tvg-name="BOX: Weeb Anime Radio" tvg-logo="" group-title="BOX: Weeb Anime Radio",
+#EXTINF:-1 tvg-id="BOX: Weeb Anime Radio" tvg-name="BOX: Weeb Anime Radio" tvg-logo="" group-title="BOX: Weeb Anime Radio",BOX: Weeb Anime Radio
 https://play.streamafrica.net/weebanimeradio
-#EXTINF:-1 tvg-id="BOX: K-POP Radio" tvg-name="BOX: K-POP Radio" tvg-logo="" group-title="BOX: K-POP Radio",
+#EXTINF:-1 tvg-id="BOX: K-POP Radio" tvg-name="BOX: K-POP Radio" tvg-logo="" group-title="BOX: K-POP Radio",BOX: K-POP Radio
 https://play.streamafrica.net/kpopradio
-#EXTINF:-1 tvg-id="BOX: Game Radio" tvg-name="BOX: Game Radio" tvg-logo="" group-title="BOX: Game Radio",
+#EXTINF:-1 tvg-id="BOX: Game Radio" tvg-name="BOX: Game Radio" tvg-logo="" group-title="BOX: Game Radio",BOX: Game Radio
 https://play.streamafrica.net/gameradio
+#EXTINF:-1 tvg-id="BOX: Radio Jazz" tvg-name="BOX: Radio Jazz" tvg-logo="" group-title="BOX: Radio Jazz",BOX: Radio Jazz
+https://play.streamafrica.net/radiojazz
+#EXTINF:-1 tvg-id="BOX: RAP" tvg-name="BOX: RAP" tvg-logo="" group-title="BOX: RAP",BOX: RAP
+https://play.streamafrica.net/afrofusionrap
+#EXTINF:-1 tvg-id="BOX: Hits Country" tvg-name="BOX: Hits Country" tvg-logo="" group-title="BOX: Hits Country",BOX: Hits Country
+https://play.streamafrica.net/hitscountry
+#EXTINF:-1 tvg-id="BOX: Classical Radio" tvg-name="BOX: Classical Radio" tvg-logo="" group-title="BOX: Classical Radio",BOX: Classical Radio
+https://play.streamafrica.net/classicalradio
+#EXTINF:-1 tvg-id="BOX: Spirit Radio" tvg-name="BOX: Spirit Radio" tvg-logo="" group-title="BOX: Spirit Radio",BOX: Spirit Radio
+https://play.streamafrica.net/spiritrnb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+url
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 url
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
