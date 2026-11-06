@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://aw-iptv-ug.0150015.xyz/playback.xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="Hong Kong International - Chek Lap Kok" tvg-name="Hong Kong International - Chek Lap Kok" tvg-logo="" group-title="LiveATC",Hong Kong International - Chek Lap Kok
+https://s1-bos.liveatc.net/vhhh5?nocache=2026110603423285909
